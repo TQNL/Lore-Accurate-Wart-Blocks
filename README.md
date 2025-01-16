@@ -1,5 +1,21 @@
 # Lore Accurate Wart Blocks
-Expands the accessibility of nether warts, wart blocks and nether sprouds to be lore accurate
+Expands the accessibility of nether warts, wart blocks and nether sprouds to be lore accurate.
+
+## Wart Blocks
+- Nether Wart Blocks and Warped Wart Blocks now drop 2 to 4 Nether Warts and Nether Sprouts respectively.
+- The maximum amount increases with each fortune level, like ores.
+- Wart Blocks are still optainable with Silk Touch.
+
+## recipes
+In vanilla, you can craft 9 Nether Warts to 1 Nether Wart Block. With this Data Pack, you can also craft 9 Nether Sprouts to 1 Warped Wart Block. You can now also break the Wart Blocks back down, but there is a loss involved:
+- 1 Nether Wart Block -> 3 Nether Warts
+- 1 Warped Wart Block -> 3 Nether Sprouts
+
+<br>
+
+(honestly, 'nether wart block' should be renamed to 'crimson wart block', to fit with the warped counter part, but mojang should do that, instead of this data pack, to avoid item compatibility issues.)
+
+---
 
 ### notice
 - If you want to support small creators like me, you can turn off ad blocker on Modrinth.
