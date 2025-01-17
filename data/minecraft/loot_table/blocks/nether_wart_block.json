@@ -38,8 +38,8 @@
               "conditions": [],
               "count": {
                 "type": "minecraft:uniform",
-                "max": 4,
-                "min": 2
+                "max": 2,
+                "min": 1
               },
               "function": "minecraft:set_count"
             },
