@@ -2,7 +2,7 @@
 Expands the accessibility of nether warts, wart blocks and nether sprouds to be lore accurate.
 
 ## Wart Blocks
-- Nether Wart Blocks and Warped Wart Blocks now drop 2 to 4 Nether Warts and Nether Sprouts respectively.
+- Nether Wart Blocks and Warped Wart Blocks now drop 1 to 2 Nether Warts and Nether Sprouts respectively.
 - The maximum amount increases with each fortune level, like ores.
 - Wart Blocks are still optainable with Silk Touch and by exploding them.
 
