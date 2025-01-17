@@ -5,7 +5,10 @@
       "conditions": {
         "items": [
           {
-            "items": "minecraft:warped_wart_block"
+            "items": 
+            [
+              "minecraft:warped_wart_block"
+            ]
           }
         ]
       },
