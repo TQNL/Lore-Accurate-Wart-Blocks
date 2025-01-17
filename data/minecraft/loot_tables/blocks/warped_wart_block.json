@@ -20,7 +20,7 @@
                   "add": false,
                   "conditions": [],
                   "count": {
-                    "type": "minecraft:uniform",
+                    "type": "uniform",
                     "max": 2,
                     "min": 1
                   },
