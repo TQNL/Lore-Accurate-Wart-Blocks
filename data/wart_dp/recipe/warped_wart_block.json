@@ -2,33 +2,15 @@
   "type": "minecraft:crafting_shapeless",
   "category": "building",
   "ingredients": [
-    {
-      "item": "minecraft:nether_sprouts"
-    },
-    {
-      "item": "minecraft:nether_sprouts"
-    },
-    {
-      "item": "minecraft:nether_sprouts"
-    },
-    {
-      "item": "minecraft:nether_sprouts"
-    },
-    {
-      "item": "minecraft:nether_sprouts"
-    },
-    {
-      "item": "minecraft:nether_sprouts"
-    },
-    {
-      "item": "minecraft:nether_sprouts"
-    },
-    {
-      "item": "minecraft:nether_sprouts"
-    },
-    {
-      "item": "minecraft:nether_sprouts"
-    }
+    "minecraft:nether_sprouts",
+    "minecraft:nether_sprouts",
+    "minecraft:nether_sprouts",
+    "minecraft:nether_sprouts",
+    "minecraft:nether_sprouts",
+    "minecraft:nether_sprouts",
+    "minecraft:nether_sprouts",
+    "minecraft:nether_sprouts",
+    "minecraft:nether_sprouts"
   ],
   "result": {
     "count": 1,
