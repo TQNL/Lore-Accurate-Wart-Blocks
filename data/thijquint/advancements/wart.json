@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "id": "minecraft:nether_wart"
+      "item": "minecraft:nether_wart"
     },
     "title": "Lore Accurate Wart Blocks",
     "description": "Expands the accessibility of nether warts, wart blocks and nether sprouds to be lore accurate",
